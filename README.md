@@ -61,15 +61,15 @@ Manual salary decisions are often inconsistent and biased. Our goal is to build 
    - Decision Tree Regressor
    - Random Forest Regressor
 6. **Model Evaluation**
-   - R² Score, MAE, RMSE
+   - R² Score, MSE
 7. **Web App Deployment using Streamlit**
 
 ---
 
 ## ✅ Results
 
-- **Best Model**: Random Forest Regressor
-- **R² Score**: ~0.86 (example)
+- **Best Model**: gradient boosting
+- **R² Score**: ~0.48 (example)
 - **Insights**:
   - Experience and Education are key predictors of salary.
 
